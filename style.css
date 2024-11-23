@@ -1,0 +1,115 @@
+
+
+/*
+ Developers
+  Abubakar Muhammed Bappa
+  GitHUB Username: SadiqHRH 
+  Abdullahi Alam Aliyu
+  GitHUB Username: 
+ */
+
+
+
+
+
+
+body{
+  font-family: "Trirong", serif;
+}
+
+h2, h3, h2, h4, h1{
+  color: green;
+}
+.navbar-nav {
+  margin-inline-end: auto;
+  margin-left: auto;
+}
+
+.navbar {
+  color: black;
+
+}
+
+.img-fluid {
+  align-content: center;
+  margin-top: 5px;
+
+}
+
+.hero {
+  text-align: center;
+}
+
+.signup {
+  margin-top: 100px;
+  text-shadow: 5px;
+}
+
+.shadow {
+  align-items: center;
+  margin-top: 5px;
+}
+
+.form {
+  margin-top: 60px;
+}
+
+.image1 {
+  border-radius: 5px;
+  align-items: center;
+  align-content: center;
+  margin-top: 8px;
+}
+
+.shadow {
+  align-items: center;
+}
+
+.name {
+  font-weight: 100px;
+  color: black;
+}
+
+.card {
+  align-items: center;
+  align-content: center;
+  border: none;
+}
+
+.test1 {
+  align-items: center;
+  align-content: center;
+}
+
+button {
+  align-items: center;
+  color: blue;
+}
+
+input {
+  margin-top: 5px;
+}
+
+.texthead {
+  color: white;
+  font-size: 25px;
+}
+
+footer {
+  padding-bottom: 20px;
+}
+
+.test {
+  align-items: center;
+  align-content: center;
+}
+
+.head2 {
+  padding-bottom: 20px;
+}
+
+
+
+
+
+    
